@@ -316,3 +316,4 @@ print("\n Final Yorumu 1 : Satis Miktari değişkni için eski tip ve sepet tipi
 , "2. Test her iki tip için de verilen mavi kristal sayısının aynı olduğu alt ggruplar kırılımında özelleşltirilerek anlamlı sonuçlar alde edilerek \n"
 , "yeni fiyat güven aralıkları belirlenebilir.")
 
+#############test
